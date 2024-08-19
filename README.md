@@ -2,10 +2,10 @@
 
 # SPAM Classifier
 
-#### Description
+## Description
 
 ###### This repository contains the source code for creating a spam classifier with the help of nltk library.
-####### It also contains the spam data file for testing the source code
+###### It also contains the spam data file for testing the source code
 
 
 #### STEPS:
